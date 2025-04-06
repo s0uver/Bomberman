@@ -1,0 +1,12 @@
+*.obj
+*.exe
+*.user
+*.log
+*.suo
+*.VC.db
+*.ipch
+.vs/
+x64/
+Debug/
+Release/
+*.pdb
